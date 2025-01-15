@@ -1,1 +1,1 @@
-# Banking-App-
+# AI-POWERED BANKING APP
